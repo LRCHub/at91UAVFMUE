@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "いーあるふぁんくらぶ feat.GUMI、鏡音リン",
+  "base_artist": "みきとP",
+  "createdAt": "2026-03-05T14:27:55.094061Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "いーあるふぁんくらぶ feat.GUMI、鏡音リン",
+      "artist": "みきとP, GUMI, Kagamine Rin",
+      "has_synced": true,
+      "path": "select/01_いーあるふぁんくらぶ_feat.GUMI、鏡音リン_みきとP,_GUMI,_Kagamine_Rin.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "いーあるふぁんくらぶ feat.GUMI、鏡音リン",
+      "artist": "Mikito P",
+      "has_synced": true,
+      "path": "select/02_いーあるふぁんくらぶ_feat.GUMI、鏡音リン_Mikito_P.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "いーあるふぁんくらぶ feat.GUMI、鏡音リン",
+      "artist": "MikitoP",
+      "has_synced": true,
+      "path": "select/03_いーあるふぁんくらぶ_feat.GUMI、鏡音リン_MikitoP.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "いーあるふぁんくらぶ feat.GUMI、鏡音リン",
+      "artist": "みきとP, GUMI, 鏡音リン",
+      "has_synced": false,
+      "path": "select/pl_01_いーあるふぁんくらぶ_feat.GUMI、鏡音リン_みきとP,_GUMI,_鏡音リン.txt"
+    }
+  ]
+}
